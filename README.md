@@ -37,8 +37,12 @@ Technologies that I used to develop this frontend app
 - [ReactJS](https://nodejs.org/en)
 - [TypeScript](https://www.typescriptlang.org)
 - [React-Icons](https://github.com/wwayne/react-tooltip)
+- [React-Router-Dom](https://reactrouter.com/web/guides/quick-start)
+- [Axios](https://github.com/axios/axios)
 - [Styled-Components](https://styled-components.com)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
+- [Polished](https://github.com/styled-components/polished)
+- [React-Icons](https://react-icons.github.io/react-icons)
+- [VS Code](https://code.visualstudio.com), [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Getting started
 
