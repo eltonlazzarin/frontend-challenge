@@ -59,8 +59,13 @@ const Main: React.FC = () => {
 
   return (
     <>
-      <Form hasError={!!inputError} onSubmit={handleAddRepository}>
+      <Form
+        data-testid="repo-form"
+        hasError={!!inputError}
+        onSubmit={handleAddRepository}
+      >
         <input
+          data-testid="input-repo"
           placeholder="Digite o nome do repositório"
           value={newRepo}
           onChange={(e) => setNewRepo(e.target.value)}
@@ -70,7 +75,7 @@ const Main: React.FC = () => {
 
       {inputError && <Error>{inputError}</Error>}
 
-      <Repositories>
+      <Repositories data-testid="repo-list">
         {repositories.map((repository) => (
           <Link
             key={repository.full_name}
