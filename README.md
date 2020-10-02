@@ -1,7 +1,3 @@
-<h1 align="center">
-	<img alt="Mercado Livre logo" src="https://github.com/eltonlazzarin/frontend-challenge/blob/master/screenshot/mercadolivre-logo.png" height="150px" width="250px" />
-</h1>
-
 <h3 align="center">
   Simple Frontend build in ReactJS and TypeScript
 </h3>
@@ -33,8 +29,6 @@
 <h1 align="center">
 	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/frontend-challenge/blob/master/screenshots/github-repo-finder.gif" />
 </h1>
-
-<!--p>This is a project that consists of creating a clone of the Mercado Livre website, more precisely a product page that was designed from an online class. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p-->
 
 ## 🚀 Technologies
 
@@ -93,7 +87,7 @@ $ git push origin your-feature
 
 After your pull request is merged, you can delete your branch
 
-## Frontent UI Simple Tests
+## Frontent Simple UI Tests
 
 ```bash
 $ git clone https://github.com/eltonlazzarin/frontend-challenge.git
