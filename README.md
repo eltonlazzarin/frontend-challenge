@@ -99,4 +99,4 @@ $ yarn test
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/discord-clone/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/frontend-challenge/blob/master/LICENSE) for more information.
